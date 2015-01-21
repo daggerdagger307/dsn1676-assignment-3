@@ -112,7 +112,7 @@ body {
 
 }
 
-@-webkit-keyframes ship {
+@keyframes ship {
     0% {
         -webkit-transform: translateY(0px);
     }
